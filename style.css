@@ -1,0 +1,67 @@
+body{
+    background-image: url(img/thumbnail.jpg);
+    background-repeat: no-repeat;
+}
+
+main {
+    
+    font-family: 'Fredoka One', cursive;
+}
+header img{
+    float: left;
+    width: 100px;
+}
+header p{
+    text-align: center;
+font-size: 40px;
+color: red;
+padding-top: 10px;
+font-family: 'Fredoka One', cursive;
+
+}
+header {
+    background-color: rgba(255, 229, 72, 255);
+    height: 60px;
+}
+
+footer{
+    background-color: rgba(255, 229, 72, 255);
+    text-align: center;
+height: 30px;
+padding-top: 10px;
+margin-top: 50px;
+font-family: 'Fredoka One', cursive;
+
+}
+#formDiv{
+    display: inline-block;
+    background-color:  rgba(255, 229, 72, 255);
+
+}
+#myForm{
+    height: 100px;
+    margin-top: 40px;
+}
+label{
+    color: red;
+}
+table, th, td{
+    border: solid 2px red;
+    font-family: 'Fredoka One', cursive;
+
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+    margin: auto;
+
+}
+#container{
+    width: 300px;
+    display: inline-block;
+    float: right;
+    margin-right: 400px;
+    margin-top: 60px;
+    margin-left: 0px;
+    background-color: rgba(255, 229, 72, 255);
+}
